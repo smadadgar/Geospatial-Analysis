@@ -1,0 +1,1 @@
+This repository offers a suite of useful tools for geospatial analysis, including statistical modeling in the spatial domain, map visualizations, and additional capabilities for comprehensive geographic data exploration.
