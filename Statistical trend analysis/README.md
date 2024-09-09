@@ -1,1 +1,1 @@
-
+This code includes all the essential functions required to conduct a statistical trend analysis on observed temperature data (minimum, maximum, and average) for any state in the US. Additionally, it visualizes the trends and offers a comprehensive statistical summary to enhance understanding of the trends and their significance.
