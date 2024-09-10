@@ -1,1 +1,1 @@
-
+This code offers a set of powerful functions for downloading gridded temperature data, processing it, and visualizing it on a map. Additionally, it demonstrates how to clip a gridded dataset using a shapefile.
